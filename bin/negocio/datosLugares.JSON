@@ -1,0 +1,37 @@
+{
+  "listaLugares": {
+    "elements": [
+      {
+        "Lugar ": "LA PAMPA",
+        "latitud ": -37.683820326693805,
+        "longitud ": -65.390625,
+        "provincia ": "La Pampa"
+      },
+      {
+        "Lugar ": "BS AS",
+        "latitud ": -36.38591277287651,
+        "longitud ": -58.18359375,
+        "provincia ": "Buenos Aires"
+      },
+      {
+        "Lugar ": "CORDOBA",
+        "latitud ": -32.21280106801518,
+        "longitud ": -62.666015625,
+        "provincia ": "Cordoba"
+      },
+      {
+        "Lugar ": "CORRIENTES",
+        "latitud ": -29.64986867797229,
+        "longitud ": -58.5791015625,
+        "provincia ": "Corrientes"
+      },
+      {
+        "Lugar ": "SAN LUIS",
+        "latitud ": -35.389049966911664,
+        "longitud ": -65.8740234375,
+        "provincia ": "San Luis"
+      }
+    ]
+  },
+  "rutaDeJSON": "src/negocio/datosLugares.JSON"
+}
